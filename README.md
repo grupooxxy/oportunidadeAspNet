@@ -14,7 +14,7 @@ Se você tem interesse em fazer parte de uma equipe multidisciplinar, siga os se
  - Crie um repositório no github ou bitbucket para armazenar a resolução do exercício.
  - Envie um email para trabalheconoscoti@grupooxxy.com.br com seu repositório para nós analisarmos a resolução do exercício.
 
-Exercício de programação: Cadastro de Veículos
+Exercício de programação: Cadastro de Veículos e WS
 -------------------------------------------------------
 
 1 - Crie um site que administre um cadastro de veículos em uma base de dados.
@@ -31,7 +31,7 @@ O site consiste basicamente em três telas:
  * **Detalhes do veículo** 
    ![Screenshots](visualizar.png)
    
-1 - Crie um web service SOAP que liste os veículos cadastrados pelo site podendo filtrar pela placa.
+2 - Crie um web service SOAP que liste os veículos cadastrados pelo site podendo filtrar pela placa.
       
 As tecnologias que nós recomendamos a utilizar são:
 - ASP.NET MVC
